@@ -4,3 +4,5 @@
 .idea
 !.idea/codeStyles/Project.xml
 !.idea/codeStyles/codeStyleConfig.xml
+
+node-js/node_modules
