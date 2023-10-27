@@ -19,7 +19,9 @@ O objetivo do conversor de moedas é ser um projeto que permita adquirir e aplic
 > Humble, Jez; Farley, David. Continuous Delivery (Addison-Wesley Signature Series (Fowler)) (p. 85). Kindle Edition.
 
 ### Semana 1: Resolver o problema de negócio fundamental
-Nesta primeira etapa, a solução pode ser em linha de comando ou baseada em arquivo. Para fins de simplificação, podemos suportar uma quantidade limitada de moedas
+Nesta primeira etapa, a solução pode ser em linha de comando ou baseada em arquivo. Para fins de simplificação, podemos suportar uma quantidade limitada de moedas.
+
+Requisitos: https://github.com/yrachid/currency-conversion/issues/1
 
 ### Semana 2: Utilizar Express para desenvolver um endpoint
 Transformar o conversor desenvolvido na semana 1 em uma api web, expondo um endpoint que realize a mesma operação proposta na etapa anterior.
