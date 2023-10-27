@@ -36,3 +36,8 @@ Consumir uma API real que forneça taxas de câmbio atualizadas e utilizar isso 
 
 ### Semana 5: Dockerizar a aplicação
 Dockerizar a aplicação permitirá entender as vantagens trazidas pelos containers para os projetos de software modernos. Também facilitará o entendimento do papel dos containers na infraestrutura da Creditas.
+
+
+## Material de Apoio
+
+* [Como lidar com valores monetários em Javascript (ou em qualquer outra linguagem)]([url](https://www-honeybadger-io.translate.goog/blog/currency-money-calculations-in-javascript/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en-US&_x_tr_pto=wapp)https://www-honeybadger-io.translate.goog/blog/currency-money-calculations-in-javascript/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en-US&_x_tr_pto=wapp)
