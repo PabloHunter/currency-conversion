@@ -40,4 +40,9 @@ Dockerizar a aplicação permitirá entender as vantagens trazidas pelos contain
 
 ## Material de Apoio
 
-* [Como lidar com valores monetários em Javascript (ou em qualquer outra linguagem)]([url](https://www-honeybadger-io.translate.goog/blog/currency-money-calculations-in-javascript/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en-US&_x_tr_pto=wapp)https://www-honeybadger-io.translate.goog/blog/currency-money-calculations-in-javascript/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en-US&_x_tr_pto=wapp)
+Lidando com dinheiros:
+* [Como lidar com valores monetários em Javascript e outras linguagens](https://www-honeybadger-io.translate.goog/blog/currency-money-calculations-in-javascript/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en-US&_x_tr_pto=wapp)
+
+Docker:
+* [Livro Docker para desenvolvedores (Gomex)](https://github.com/gomex/docker-para-desenvolvedores)
+* [Tutorial de Docker por LinuxTips](https://www.youtube.com/watch?v=0cDj7citEjE)
